@@ -1,0 +1,41 @@
+body { 
+    background-image: url(../images/body-fon.png);
+    background-repeat: repeat;
+    font-weight: 400;
+    font-family: 'open_sans', sans-serif;
+    
+        /* font-size: 16px
+   ; */ }
+.wrapper
+
+.media, .media-body{
+    overflow: hidden;
+}
+
+.pull-left{
+    float: left;
+    margin: 10px;
+}
+
+.parent{
+  
+    width: 500px;
+    background-color: #fff;
+    background: rgba(255,255,255,.5);
+    float: left;
+    
+}
+
+.left{
+    height: 100px;
+    width: 200px;
+    float: left;
+    background-color: blue;
+}
+
+.right{
+    height: 100px;
+    width: 200px;
+    float: right;
+    background-color: green;
+}
